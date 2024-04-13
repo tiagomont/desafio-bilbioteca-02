@@ -1,6 +1,6 @@
 class Emprestimo{
     private String data;
-    private ArrayList<ItemEmprestimo> livros;
+    private ArrayList<ItemEmprestimo> livros = new ArrayList<>();
 
     public String getData()
     {
