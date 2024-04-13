@@ -2,7 +2,6 @@ public class livro{
     private String isbn;
     private String titulo;
 
-
     public String getisbn(){
     return isbn;
     }
