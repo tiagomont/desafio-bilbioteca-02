@@ -1,6 +1,7 @@
 public class livro{
     private String isbn;
     private String titulo;
+    private Autor Autor;
 
     public String getisbn(){
     return isbn;
